@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Description
 
-This is a basic to-do app that I have jist created in a couple of hours. It supports adding todo, checking/unchecking todos and delete to-dos
+This is a to-do app that I have just created, it took me a couple of hours and covers the basic operations: adding todo, checking/unchecking todos and delete to-dos
 
 
 ## Available Scripts
